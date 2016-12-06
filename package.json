@@ -1,9 +1,9 @@
 {
-  "name": "redux-simple-starter",
+  "name": "redux-simple-books",
   "version": "1.0.0",
   "description": "Simple starter package for Redux with React and Babel support, based on tutorial from Stephen Grider",
   "main": "index.js",
-  "repository": "https://github.com/jdheywood/redux-simple-starter",
+  "repository": "https://github.com/jdheywood/redux-simple-books",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
